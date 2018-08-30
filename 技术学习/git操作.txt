@@ -1,0 +1,26 @@
+maven操作：
+	1.mvn clean package
+	  打包
+	2.mvn install:install-file -Dfile=pub-1.0-SNAPSHOT.jar -DgroupId=groupId -DartifactId=artifactId -Dversion=1.0-SNAPSHOT -Dpackaging=jar
+	  发布到本地仓库
+	3.mvn deploy
+	  发布到远程仓库
+
+git操作：
+	1.git branch
+	  查看本地分支；标星号的是当前分支
+	2.git branch -a
+	  查看所有分支； -> 标记远程分支
+        3.fetch
+          拉取远程分支
+	4.git checkout -b zhenpin origin/feature/zhenpin
+	  下载远程分支zhenpin并在本地切换
+	5.git push origin --delete "branch"
+	  删除远程分支
+
+aone操作：
+	1.接需求
+	2.新建feature
+	3.本地下载并切换至feature分支
+	4.push
+	5.预发部署

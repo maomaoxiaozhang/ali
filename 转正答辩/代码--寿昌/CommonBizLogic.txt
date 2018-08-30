@@ -1,0 +1,25 @@
+/**
+ * <p>
+ *     rp判断是否需要处理的逻辑
+ *     评价订单来源为创新平台且存在评价内容才处理
+ * </p>
+ *
+ * @param feedItemDO
+ *      评价订单领域对象
+ *
+ * @param context
+ *      系统上下文
+ *
+ * @return  是否需要根据评价订单类型忽略管控处理
+ */
+public static boolean rpShouldIgnoreByType(FeedItemDO feedItemDO, Context context) {
+    if (InternalCommonConstants.SOURCE_RP.equals(context.getSystem())) {
+        if (feedItemDO == null || feedItemDO.getFeedId() == 0L) {
+            return true;
+        }
+       //hasContent是否存在评价内容 1：存在，0：不存在
+       return RateBizTypeConstant.RATE_HAS_CONTENT != feedItemDO.getValidfeedback();
+    } else {
+        return true;
+    }
+}

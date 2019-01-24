@@ -1,0 +1,53 @@
+500
+num: 500
+发包总数：500 接收总数：128 总时延：21101 平均时延：164
+Reset Button pressed !
+Setup Button pressed !
+1000
+num: 1000
+发包总数：1000 接收总数：173 总时延：28263 平均时延：163
+Reset Button pressed !
+Setup Button pressed !
+1500
+num: 1500
+发包总数：1500 接收总数：248 总时延：40809 平均时延：164
+Reset Button pressed !
+Setup Button pressed !
+2000
+num: 2000
+发包总数：2000 接收总数：293 总时延：50121 平均时延：171
+Reset Button pressed !
+Setup Button pressed !
+2500
+num: 2500
+发包总数：2500 接收总数：291 总时延：48728 平均时延：167
+Reset Button pressed !
+Setup Button pressed !
+3000
+num: 3000
+发包总数：3000 接收总数：299 总时延：50795 平均时延：169
+Reset Button pressed !
+Setup Button pressed !
+3000
+num: 3000
+发包总数：3000 接收总数：326 总时延：53522 平均时延：164
+Reset Button pressed !
+Setup Button pressed !
+3500
+num: 3500
+发包总数：3500 接收总数：392 总时延：59947 平均时延：152
+Reset Button pressed !
+Setup Button pressed !
+4000
+num: 4000
+发包总数：4000 接收总数：436 总时延：65812 平均时延：150
+Reset Button pressed !
+Setup Button pressed !
+4500
+num: 4500
+发包总数：4500 接收总数：501 总时延：73791 平均时延：147
+Reset Button pressed !
+Setup Button pressed !
+5000
+num: 5000
+发包总数：5000 接收总数：550 总时延：79624 平均时延：144

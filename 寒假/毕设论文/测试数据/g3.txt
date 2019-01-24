@@ -1,0 +1,63 @@
+key: threshold	value: 2
+key: drop	value: 10
+Reset Button pressed !
+Setup Button pressed !
+content:   <?xml version="1.0" encoding="UTF-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:org="http://edu.bupt.wangfu.module.wsnMgr.util.soap"><soapenv:Header/><soapenv:Body><org:WsnProcess>&lt;wsnt:Subscribe xmlns:wsnt="http://docs.oasis-open.org/wsnMgr/b-2" xmlns:wsa="http://www.w3.org/2005/08/addressing"&gt;&lt;wsnt:ConsumerReference&gt; &lt;wsa:Address&gt;&lt;id&gt;1546944354668&lt;/id&gt;&lt;topic&gt;test1&lt;/topic&gt;&lt;userAddress&gt;http://192.168.100.102:9016/wsn-subscribe&lt;/userAddress&gt;&lt;delay&gt;1000&lt;/delay&gt;&lt;lostRate&gt;20.0&lt;/lostRate&gt;&lt;/wsa:Address&gt;&lt;/wsnt:ConsumerReference&gt;&lt;wsnt:Filter&gt;&lt;wsnt:TopicExpression Dialect="http://docs.oasis-open.org/wsn/t-1/TopicExpression/Simple"&gt;test1&lt;/wsnt:TopicExpression&gt;&lt;/wsnt:Filter&gt;&lt;wsnt:SubscriberAddress&gt;&lt;/wsnt:SubscriberAddress&gt;&lt;/wsnt:Subscribe&gt;</org:WsnProcess></soapenv:Body></soapenv:Envelope>
+isresponsecounter:1
+----------5
+----------1
+----------2
+----------3
+----------4
+response:  <?xml version="1.0" ?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body></S:Body></S:Envelope>
+
+100
+num: 100
+发送开始时间：1558913951297596	发送结束时间：1558915549342315	接收开始时间：1297804709679913	接收结束时间：1297806175345271	时延：1465665358	总包数：100	接收总数：98	丢包率：0
+Reset Button pressed !
+Setup Button pressed !
+500
+num: 500
+发送开始时间：1558943175068652	发送结束时间：1558951061636457	接收开始时间：1297833790331635	接收结束时间：1297841686176329	时延：7895844694	总包数：500	接收总数：500	丢包率：0
+Reset Button pressed !
+Setup Button pressed !
+1000
+num: 1000
+发送开始时间：1558987918393710	发送结束时间：1559003588246422	接收开始时间：1297878531967948	接收结束时间：1297894213597010	时延：15681629062	总包数：1000	接收总数：966	丢包率：0
+Reset Button pressed !
+Setup Button pressed !
+1500
+num: 1500
+发送开始时间：1559034741798232	发送结束时间：1559058151079742	接收开始时间：1297925354191375	接收结束时间：1297948774659231	时延：23420467856	总包数：1500	接收总数：1494	丢包率：0
+Reset Button pressed !
+Setup Button pressed !
+2000
+num: 2000
+发送开始时间：1559093421241925	发送结束时间：1559127108373454	接收开始时间：1297984033245528	接收结束时间：1298017731840474	时延：33698594946	总包数：2000	接收总数：1921	丢包率：0
+Reset Button pressed !
+Setup Button pressed !
+2500
+num: 2500
+发送开始时间：1559172524334609	发送结束时间：1559211241753587	接收开始时间：1298063134949447	接收结束时间：1298101864421554	时延：38729472107	总包数：2500	接收总数：2496	丢包率：0
+Reset Button pressed !
+Setup Button pressed !
+3000
+num: 3000
+发送开始时间：1559276699233919	发送结束时间：1559323117671589	接收开始时间：1298167309075887	接收结束时间：1298213740846634	时延：46431770747	总包数：3000	接收总数：2998	丢包率：0
+Reset Button pressed !
+Setup Button pressed !
+3500
+num: 3500
+发送开始时间：1559372978169445	发送结束时间：1559427073511345	接收开始时间：1298263587195949	接收结束时间：1298317696411696	时延：54109215747	总包数：3500	接收总数：3497	丢包率：0
+Reset Button pressed !
+Setup Button pressed !
+4000
+num: 4000
+发送开始时间：1559520112529032	发送结束时间：1559581966556610	接收开始时间：1298410723544658	接收结束时间：1298472587265242	时延：61863720584	总包数：4000	接收总数：3997	丢包率：0
+Reset Button pressed !
+Setup Button pressed !
+4500
+num: 4500
+发送开始时间：1559681878726703	发送结束时间：1559751518639548	接收开始时间：1298572488960391	接收结束时间：1298642139264731	时延：69650304340	总包数：4500	接收总数：4497	丢包率：0
+Reset Button pressed !
+Setup Button pressed !

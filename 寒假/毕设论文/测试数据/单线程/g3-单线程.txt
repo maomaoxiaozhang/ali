@@ -1,0 +1,99 @@
+500
+num: 500
+发包总数500 接收总数：485 总时延：1096116 平均时延：2260
+Reset Button pressed !
+Setup Button pressed !
+1000
+num: 1000
+发包总数1000 接收总数：997 总时延：5836465 平均时延：5854
+Reset Button pressed !
+Setup Button pressed !
+1500
+num: 1500
+发包总数1500 接收总数：1497 总时延：14061832 平均时延：9393
+Reset Button pressed !
+Setup Button pressed !
+2000
+num: 2000
+发包总数2000 接收总数：1974 总时延：22600012 平均时延：11448
+Reset Button pressed !
+Setup Button pressed !
+2500
+num: 2500
+发包总数2500 接收总数：2488 总时延：36974124 平均时延：14860
+Reset Button pressed !
+Setup Button pressed !
+3000
+num: 3000
+发包总数3000 接收总数：2995 总时延：59189320 平均时延：19762
+Reset Button pressed !
+Setup Button pressed !
+3500
+num: 3500
+发包总数3500 接收总数：3468 总时延：64145107 平均时延：18496
+Reset Button pressed !
+Setup Button pressed !
+4000
+num: 4000
+发包总数4000 接收总数：3695 总时延：77281260 平均时延：20915
+Reset Button pressed !
+Setup Button pressed !
+4500
+num: 4500
+发包总数4500 接收总数：4463 总时延：130321966 平均时延：29200
+Reset Button pressed !
+Setup Button pressed !
+5000
+num: 5000
+发包总数5000 接收总数：4955 总时延：157171195 平均时延：31719
+Reset Button pressed !
+Setup Button pressed !
+5500
+num: 5500
+发包总数5500 接收总数：5467 总时延：195806276 平均时延：35816
+Reset Button pressed !
+Setup Button pressed !
+6000
+num: 6000
+发包总数6000 接收总数：5960 总时延：234047422 平均时延：39269
+Reset Button pressed !
+Setup Button pressed !
+6500
+num: 6500
+发包总数6500 接收总数：6462 总时延：273129704 平均时延：42267
+Reset Button pressed !
+Setup Button pressed !
+7000
+num: 7000
+发包总数7000 接收总数：6968 总时延：317619703 平均时延：45582
+Reset Button pressed !
+Setup Button pressed !
+7500
+num: 7500
+发包总数7500 接收总数：7460 总时延：367541498 平均时延：49268
+Reset Button pressed !
+Setup Button pressed !
+8000
+num: 8000
+发包总数8000 接收总数：7967 总时延：418727177 平均时延：52557
+Reset Button pressed !
+Setup Button pressed !
+8500
+num: 8500
+发包总数8500 接收总数：8475 总时延：472104095 平均时延：55705
+Reset Button pressed !
+Setup Button pressed !
+9000
+num: 9000
+发包总数9000 接收总数：8957 总时延：530575894 平均时延：59235
+Reset Button pressed !
+Setup Button pressed !
+9500
+num: 9500
+发包总数9500 接收总数：9450 总时延：591035073 平均时延：62543
+Reset Button pressed !
+Setup Button pressed !
+10000
+num: 10000
+发包总数10000 接收总数：9908 总时延：649639622 平均时延：65567
+

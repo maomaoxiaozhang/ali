@@ -1,0 +1,48 @@
+500
+num: 500
+450	447359	994
+Reset Button pressed !
+Setup Button pressed !
+1000
+num: 1000
+987	610389	618
+Reset Button pressed !
+Setup Button pressed !
+1500
+num: 1500
+1358	753860	555
+Reset Button pressed !
+Setup Button pressed !
+2000
+num: 2000
+1852	3955756	2135
+Reset Button pressed !
+Setup Button pressed !
+2500
+num: 2500
+2281	2774055	1216
+Reset Button pressed !
+Setup Button pressed !
+3000
+num: 3000
+2966	2509332	846
+Reset Button pressed !
+Setup Button pressed !
+3500
+num: 3500
+3493	1824929	522
+Reset Button pressed !
+Setup Button pressed !
+4000
+num: 4000
+3949	3225203	816
+Reset Button pressed !
+Setup Button pressed !
+4500
+num: 4500
+4450	2900930	651
+Reset Button pressed !
+Setup Button pressed !
+5000
+num: 5000
+4971	3319352	667

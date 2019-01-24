@@ -1,0 +1,64 @@
+"C:\Program Files\Java\jdk1.8.0_181\bin\java" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2017.3.4\lib\idea_rt.jar=63595:C:\Program Files\JetBrains\IntelliJ IDEA 2017.3.4\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_181\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar;C:\Users\Administrator\Desktop\SDNPubSub\target\classes;C:\Users\Administrator\.m2\repository\commons-httpclient\commons-httpclient\3.1\commons-httpclient-3.1.jar;C:\Users\Administrator\.m2\repository\commons-logging\commons-logging\1.0.4\commons-logging-1.0.4.jar;C:\Users\Administrator\.m2\repository\commons-codec\commons-codec\1.2\commons-codec-1.2.jar;C:\Users\Administrator\.m2\repository\org\springframework\spring-context\4.2.6.RELEASE\spring-context-4.2.6.RELEASE.jar;C:\Users\Administrator\.m2\repository\org\springframework\spring-aop\4.2.6.RELEASE\spring-aop-4.2.6.RELEASE.jar;C:\Users\Administrator\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;C:\Users\Administrator\.m2\repository\org\springframework\spring-beans\4.2.6.RELEASE\spring-beans-4.2.6.RELEASE.jar;C:\Users\Administrator\.m2\repository\org\springframework\spring-expression\4.2.6.RELEASE\spring-expression-4.2.6.RELEASE.jar;C:\Users\Administrator\.m2\repository\com\jcraft\jsch\0.1.54\jsch-0.1.54.jar;C:\Users\Administrator\.m2\repository\org\springframework\spring-core\4.3.8.RELEASE\spring-core-4.3.8.RELEASE.jar;C:\Users\Administrator\.m2\repository\org\springframework\boot\spring-boot-starter\2.0.5.RELEASE\spring-boot-starter-2.0.5.RELEASE.jar;C:\Users\Administrator\.m2\repository\org\springframework\boot\spring-boot\2.0.5.RELEASE\spring-boot-2.0.5.RELEASE.jar;C:\Users\Administrator\.m2\repository\org\springframework\boot\spring-boot-autoconfigure\2.0.5.RELEASE\spring-boot-autoconfigure-2.0.5.RELEASE.jar;C:\Users\Administrator\.m2\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar;C:\Users\Administrator\.m2\repository\org\yaml\snakeyaml\1.19\snakeyaml-1.19.jar;C:\Users\Administrator\.m2\repository\org\apache\httpcomponents\httpclient\4.5.3\httpclient-4.5.3.jar;C:\Users\Administrator\.m2\repository\org\apache\httpcomponents\httpcore\4.4.6\httpcore-4.4.6.jar;C:\Users\Administrator\.m2\repository\org\apache\httpcomponents\httpasyncclient\4.0-beta1\httpasyncclient-4.0-beta1.jar;C:\Users\Administrator\.m2\repository\org\apache\httpcomponents\httpcore-nio\4.2-beta1\httpcore-nio-4.2-beta1.jar;C:\Users\Administrator\.m2\repository\dom4j\dom4j\1.1\dom4j-1.1.jar;C:\Users\Administrator\.m2\repository\javax\activation\activation\1.1.1\activation-1.1.1.jar;C:\Users\Administrator\.m2\repository\com\sun\mail\javax.mail\1.5.4\javax.mail-1.5.4.jar;C:\Users\Administrator\.m2\repository\org\apache\logging\log4j\log4j-core\2.11.1\log4j-core-2.11.1.jar;C:\Users\Administrator\.m2\repository\org\apache\logging\log4j\log4j-api\2.11.1\log4j-api-2.11.1.jar" edu.bupt.wangfu.role.user.subscribe.MySubscriber
+key: threshold	value: 2
+key: drop	value: 10
+Reset Button pressed !
+Setup Button pressed !
+content:   <?xml version="1.0" encoding="UTF-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:org="http://edu.bupt.wangfu.module.wsnMgr.util.soap"><soapenv:Header/><soapenv:Body><org:WsnProcess>&lt;wsnt:Subscribe xmlns:wsnt="http://docs.oasis-open.org/wsnMgr/b-2" xmlns:wsa="http://www.w3.org/2005/08/addressing"&gt;&lt;wsnt:ConsumerReference&gt; &lt;wsa:Address&gt;&lt;id&gt;1546944377137&lt;/id&gt;&lt;topic&gt;test1&lt;/topic&gt;&lt;userAddress&gt;http://192.168.100.101:9016/wsn-subscribe&lt;/userAddress&gt;&lt;delay&gt;1000&lt;/delay&gt;&lt;lostRate&gt;20.0&lt;/lostRate&gt;&lt;/wsa:Address&gt;&lt;/wsnt:ConsumerReference&gt;&lt;wsnt:Filter&gt;&lt;wsnt:TopicExpression Dialect="http://docs.oasis-open.org/wsn/t-1/TopicExpression/Simple"&gt;test1&lt;/wsnt:TopicExpression&gt;&lt;/wsnt:Filter&gt;&lt;wsnt:SubscriberAddress&gt;&lt;/wsnt:SubscriberAddress&gt;&lt;/wsnt:Subscribe&gt;</org:WsnProcess></soapenv:Body></soapenv:Envelope>
+isresponsecounter:1
+----------5
+----------1
+----------2
+----------3
+----------4
+response:  <?xml version="1.0" ?><S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/"><S:Body></S:Body></S:Envelope>
+
+100
+num: 100
+发送开始时间：1558913951297596	发送结束时间：1558915549342315	接收开始时间：1643379812375729	接收结束时间：1643381438745356	时延：1626369627	总包数：100	接收总数：99	丢包率：0
+Reset Button pressed !
+Setup Button pressed !
+500
+num: 500
+发送开始时间：1558943175068652	发送结束时间：1558951061636457	接收开始时间：1643408935755680	接收结束时间：1643416978601192	时延：8042845512	总包数：500	接收总数：499	丢包率：0
+Reset Button pressed !
+Setup Button pressed !
+1000
+num: 1000
+发送开始时间：1558987918393710	发送结束时间：1559003588246422	接收开始时间：1643453677987109	接收结束时间：1643469526992603	时延：15849005494	总包数：1000	接收总数：982	丢包率：0
+Reset Button pressed !
+Setup Button pressed !
+1500
+num: 1500
+发送开始时间：1559034741798232	发送结束时间：1559058151079742	接收开始时间：1643500511565961	接收结束时间：1643524090451786	时延：23578885825	总包数：1500	接收总数：1501	丢包率：0
+Reset Button pressed !
+Setup Button pressed !
+2000
+num: 2000
+发送开始时间：1559093421241925	发送结束时间：1559127108373454	接收开始时间：1643559181107469	接收结束时间：1643592903100518	时延：33721993049	总包数：2000	接收总数：1939	丢包率：0
+Reset Button pressed !
+Setup Button pressed !
+2500
+num: 2500
+发送开始时间：1559172524334609	发送结束时间：1559211241753587	接收开始时间：1643638284872359	接收结束时间：1643677280043174	时延：38995170815	总包数：2500	接收总数：2495	丢包率：0
+Reset Button pressed !
+Setup Button pressed !
+3000
+num: 3000
+发送开始时间：1559276699233919	发送结束时间：1559323117671589	接收开始时间：1643742460951194	接收结束时间：1643789125028908	时延：46664077714	总包数：3000	接收总数：2984	丢包率：0
+Reset Button pressed !
+Setup Button pressed !
+3500
+num: 3500
+发送开始时间：1559372978169445	发送结束时间：1559427073511345	接收开始时间：1643838741363160	接收结束时间：1643893093564278	时延：54352201118	总包数：3500	接收总数：3474	丢包率：0
+Reset Button pressed !
+Setup Button pressed !
+4000
+num: 4000
+发送开始时间：1559520112529032	发送结束时间：1559581966556610	接收开始时间：1643985879127352	接收结束时间：1644048032154659	时延：62153027307	总包数：4000	接收总数：3974	丢包率：0
+Reset Button pressed !
+Setup Button pressed !
+4500
+num: 4500
+发送开始时间：1559681878726703	发送结束时间：1559751518639548	接收开始时间：1644147649474181	接收结束时间：1644217562377098	时延：69912902917	总包数：4500	接收总数：4469	丢包率：0
+
+Process finished with exit code 1

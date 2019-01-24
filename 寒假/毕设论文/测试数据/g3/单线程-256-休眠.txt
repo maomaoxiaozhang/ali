@@ -1,0 +1,48 @@
+500
+num: 500
+279	3661	13
+Reset Button pressed !
+Setup Button pressed !
+1000
+num: 1000
+499	6299	12
+Reset Button pressed !
+Setup Button pressed !
+1500
+num: 1500
+814	9061	11
+Reset Button pressed !
+Setup Button pressed !
+2000
+num: 2000
+1063	9650	9
+Reset Button pressed !
+Setup Button pressed !
+2500
+num: 2500
+1288	10783	8
+Reset Button pressed !
+Setup Button pressed !
+3000
+num: 3000
+1483	10218	6
+Reset Button pressed !
+Setup Button pressed !
+3500
+num: 3500
+1750	10113	5
+Reset Button pressed !
+Setup Button pressed !
+4000
+num: 4000
+1951	11383	5
+Reset Button pressed !
+Setup Button pressed !
+4500
+num: 4500
+2209	10256	4
+Reset Button pressed !
+Setup Button pressed !
+5000
+num: 5000
+2427	8809	3

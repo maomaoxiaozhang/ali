@@ -1,0 +1,58 @@
+500
+num: 500
+id: 501	count: 501
+501	89806	179
+Reset Button pressed !
+Setup Button pressed !
+1000
+num: 1000
+id: 1001	count: 997
+997	120640	121
+Reset Button pressed !
+Setup Button pressed !
+1500
+num: 1500
+id: 1501	count: 1490
+1490	160786	107
+Reset Button pressed !
+Setup Button pressed !
+2000
+num: 2000
+id: 2001	count: 1993
+1993	242369	121
+Reset Button pressed !
+Setup Button pressed !
+2500
+num: 2500
+id: 2501	count: 2489
+2489	311417	125
+Reset Button pressed !
+Setup Button pressed !
+3000
+num: 3000
+id: 3001	count: 2985
+2985	315846	105
+Reset Button pressed !
+Setup Button pressed !
+3500
+num: 3500
+id: 3501	count: 3486
+3486	253758	72
+Reset Button pressed !
+Setup Button pressed !
+4000
+num: 4000
+id: 4001	count: 3973
+3973	369162	92
+Reset Button pressed !
+Setup Button pressed !
+4500
+num: 4500
+id: 4501	count: 4479
+4479	401553	89
+Reset Button pressed !
+Setup Button pressed !
+5000
+num: 5000
+id: 5001	count: 4978
+4978	484468	97

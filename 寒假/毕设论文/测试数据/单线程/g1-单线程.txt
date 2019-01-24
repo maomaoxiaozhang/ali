@@ -1,0 +1,104 @@
+500
+num: 500
+发包总数：500 接收总数：501 总时延：123572 平均时延：246
+Reset Button pressed !
+Setup Button pressed !
+1000
+num: 1000
+发包总数：1000 接收总数：999 总时延：159458 平均时延：159
+Reset Button pressed !
+Setup Button pressed !
+
+1500
+num: 1500
+发包总数：1500 接收总数：1501 总时延：22943 平均时延：15
+Reset Button pressed !
+Setup Button pressed !
+2000
+num: 2000
+发包总数：2000 接收总数：2001 总时延：38557 平均时延：19
+Reset Button pressed !
+Setup Button pressed !
+2500
+num: 2500
+发包总数：2500 接收总数：2480 总时延：20432 平均时延：8
+Reset Button pressed !
+Setup Button pressed !
+3000
+num: 3000
+发包总数：3000 接收总数：3000 总时延：17147 平均时延：5
+Reset Button pressed !
+Setup Button pressed !
+3500
+num: 3500
+3500
+num: 3500
+发包总数：3500 接收总数：3499 总时延：61508 平均时延：17
+Reset Button pressed !
+Setup Button pressed !
+4000
+num: 4000
+发包总数：4000 接收总数：3999 总时延：53164 平均时延：13
+Reset Button pressed !
+Setup Button pressed !
+4500
+num: 4500
+发包总数：4500 接收总数：4500 总时延：27130 平均时延：6
+Reset Button pressed !
+Setup Button pressed !
+5000
+num: 5000
+发包总数：5000 接收总数：5001 总时延：32828 平均时延：6
+Reset Button pressed !
+Setup Button pressed !
+5500
+num: 5500
+发包总数：5500 接收总数：5500 总时延：31704 平均时延：5
+Reset Button pressed !
+Setup Button pressed !
+6000
+num: 6000
+发包总数：6000 接收总数：5999 总时延：37787 平均时延：6
+Reset Button pressed !
+Setup Button pressed !
+6500
+num: 6500
+发包总数：6500 接收总数：6501 总时延：39155 平均时延：6
+Reset Button pressed !
+Setup Button pressed !
+7000
+num: 7000
+发包总数：7000 接收总数：7000 总时延：45114 平均时延：6
+Reset Button pressed !
+Setup Button pressed !
+7500
+num: 7500
+发包总数：7500 接收总数：7501 总时延：45941 平均时延：6
+Reset Button pressed !
+Setup Button pressed !
+8000
+num: 8000
+发包总数：8000 接收总数：7999 总时延：49350 平均时延：6
+Reset Button pressed !
+Setup Button pressed !
+8500
+num: 8500
+发包总数：8500 接收总数：8501 总时延：49359 平均时延：5
+Reset Button pressed !
+Setup Button pressed !
+9000
+num: 9000
+发包总数：9000 接收总数：9000 总时延：60724 平均时延：6
+Reset Button pressed !
+Setup Button pressed !
+9500
+num: 9500
+发包总数：9500 接收总数：9498 总时延：64678 平均时延：6
+Reset Button pressed !
+Setup Button pressed !
+10000
+num: 10000
+发包总数：10000 接收总数：10001 总时延：70083 平均时延：7
+
+Process finished with exit code 1
+

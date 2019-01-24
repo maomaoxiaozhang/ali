@@ -1,0 +1,99 @@
+500
+num: 500
+发包总数：500 接收总数：496 总时延：1188310 平均时延：2395
+Reset Button pressed !
+Setup Button pressed !
+1000
+num: 1000
+发包总数：1000 接收总数：998 总时延：5944956 平均时延：5956
+Reset Button pressed !
+Setup Button pressed !
+1500
+num: 1500
+发包总数：1500 接收总数：1497 总时延：14286753 平均时延：9543
+Reset Button pressed !
+Setup Button pressed !
+2000
+num: 2000
+发包总数：2000 接收总数：1986 总时延：23140594 平均时延：11651
+Reset Button pressed !
+Setup Button pressed !
+2500
+num: 2500
+发包总数：2500 接收总数：2497 总时延：37647700 平均时延：15077
+Reset Button pressed !
+Setup Button pressed !
+3000
+3500
+num: 3500
+发包总数：3500 接收总数：3474 总时延：63744969 平均时延：18349
+Reset Button pressed !
+Setup Button pressed !
+4000
+num: 4000
+发包总数：4000 接收总数：3856 总时延：82101618 平均时延：21291
+Reset Button pressed !
+Setup Button pressed !
+4500
+num: 4500
+发包总数：4500 接收总数：4496 总时延：132858345 平均时延：29550
+Reset Button pressed !
+Setup Button pressed !
+5000
+num: 5000
+发包总数：5000 接收总数：4986 总时延：159603803 平均时延：32010
+Reset Button pressed !
+Setup Button pressed !
+5500
+num: 5500
+发包总数：5500 接收总数：5487 总时延：197779133 平均时延：36045
+Reset Button pressed !
+Setup Button pressed !
+6000
+num: 6000
+发包总数：6000 接收总数：5976 总时延：235973160 平均时延：39486
+Reset Button pressed !
+Setup Button pressed !
+6500
+num: 6500
+发包总数：6500 接收总数：6476 总时延：275465110 平均时延：42536
+Reset Button pressed !
+Setup Button pressed !
+7000
+num: 7000
+发包总数：7000 接收总数：6988 总时延：320399713 平均时延：45849
+Reset Button pressed !
+Setup Button pressed !
+7500
+num: 7500
+发包总数：7500 接收总数：7472 总时延：369985060 平均时延：49516
+Reset Button pressed !
+Setup Button pressed !
+8000
+num: 8000
+发包总数：8000 接收总数：7988 总时延：421746827 平均时延：52797
+Reset Button pressed !
+Setup Button pressed !
+8500
+num: 8500
+发包总数：8500 接收总数：8477 总时延：473094708 平均时延：55809
+Reset Button pressed !
+Setup Button pressed !
+9000
+num: 9000
+发包总数：9000 接收总数：8974 总时延：533734275 平均时延：59475
+Reset Button pressed !
+Setup Button pressed !
+9500
+num: 9500
+发包总数：9500 接收总数：9476 总时延：595834519 平均时延：62878
+Reset Button pressed !
+Setup Button pressed !
+10000
+num: 10000
+发包总数：10000 接收总数：9973 总时延：659844299 平均时延：66163
+
+num: 3000
+发包总数：3000 接收总数：2994 总时延：59558092 平均时延：19892
+
+

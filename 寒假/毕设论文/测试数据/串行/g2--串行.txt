@@ -1,0 +1,50 @@
+500
+num: 500
+发包总数：500 接收总数：119 总时延：1624 平均时延：13
+Reset Button pressed !
+Setup Button pressed !
+1000
+num: 1000
+发包总数：1000 接收总数：186 总时延：2308 平均时延：12
+Reset Button pressed !
+Setup Button pressed !
+1500
+num: 1500
+发包总数：1500 接收总数：275 总时延：3744 平均时延：13
+Reset Button pressed !
+Setup Button pressed !
+2000
+num: 2000
+发包总数：2000 接收总数：328 总时延：4933 平均时延：15
+Reset Button pressed !
+Setup Button pressed !
+2500
+num: 2500
+发包总数：2500 接收总数：308 总时延：5244 平均时延：17
+Reset Button pressed !
+Setup Button pressed !
+3000
+num: 3000
+发包总数：3000 接收总数：289 总时延：5070 平均时延：17
+Reset Button pressed !
+Setup Button pressed !
+3500
+num: 3500
+发包总数：3500 接收总数：400 总时延：6899 平均时延：17
+Reset Button pressed !
+Setup Button pressed !
+4000
+num: 4000
+发包总数：4000 接收总数：443 总时延：8051 平均时延：18
+Reset Button pressed !
+Setup Button pressed !
+4500
+num: 4500
+发包总数：4500 接收总数：492 总时延：9449 平均时延：19
+Reset Button pressed !
+Setup Button pressed !
+5000
+num: 5000
+发包总数：5000 接收总数：578 总时延：11892 平均时延：20
+
+Process finished with exit code 1

@@ -1,0 +1,48 @@
+500
+num: 500
+208	1617	7
+Reset Button pressed !
+Setup Button pressed !
+1000
+num: 1000
+468	2063	4
+Reset Button pressed !
+Setup Button pressed !
+1500
+num: 1500
+740	2381	3
+Reset Button pressed !
+Setup Button pressed !
+2000
+num: 2000
+1019	2902	2
+Reset Button pressed !
+Setup Button pressed !
+2500
+num: 2500
+1089	2528	2
+Reset Button pressed !
+Setup Button pressed !
+3000
+num: 3000
+995	1600	1
+Reset Button pressed !
+Setup Button pressed !
+3500
+num: 3500
+1430	2110	1
+Reset Button pressed !
+Setup Button pressed !
+4000
+num: 4000
+1886	965	0
+Reset Button pressed !
+Setup Button pressed !
+4500
+num: 4500
+2102	-141	0
+Reset Button pressed !
+Setup Button pressed !
+5000
+num: 5000
+2503	-923	0

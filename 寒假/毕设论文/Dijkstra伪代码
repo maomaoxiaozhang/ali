@@ -1,0 +1,21 @@
+算法： Dijkstra 算法伪代码
+输入： Graph 是一个带权连通图的矩阵表示
+	   source 是计算的起始点
+输出： source 在图中最小路径的权值以及对应路径
+------------------------------------------------------------------------------------------
+function Dijkstra(Graph, source):
+	create vertex set Q
+	for each vertex v in Graph:             //初始化各个点到源点的距离，设置为最大值
+		dis[v] ← INFINITY                   
+		add v to Q 						    // 将所有节点放在Q 集合中，标记为不可达状态
+	dis[source] ← 0                         // 从source 到source 的距离为0
+	while Q is not empty:                   //遍历所有不可达节点
+        u ← vertex in Q with min dis[u]     //选取Q 中与source 距离最短的节点
+        remove u from Q                     //从Q 中移除该节点
+        for each neighbor v of u:           // 遍历Q 的邻居节点
+            alt ← dis[u] + length(u, v)      
+            if alt < dis[v]:                //若经过邻居节点V 有更短距离，则更新该路径
+				dis[v] ← alt 
+            pre[v] ← u 
+    return dis[], pre[]                    	//返回各个节点与source 的距离以及经过的路径
+------------------------------------------------------------------------------------------

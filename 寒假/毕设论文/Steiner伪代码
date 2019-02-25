@@ -1,0 +1,41 @@
+算法： Steiner 算法伪代码
+输入： allNodes 图中所有节点
+	   select 需要计算的节点
+临时变量：G：图中所有节点的集合，由allNodes 可以得到
+	      D：所选节点的集合，由select 给予点表示
+	      e：所有边的集合
+	      g：最小生成树采用的边的集合
+	      G2：最小生成树经过的节点集合
+输出： select 节点在图中链路代价最小的连通图
+---------------------------------------------------------------------------------------------------------------
+function Steiner(Set<Node> allNodes, Set<Node> select):
+	//step1：计算完全连通图
+	create distance set dist
+	for each vertex i in allNodes: 
+		for each vertex j in allNodes:
+			for each vertex k in allNodes:
+				dis[i][j] ← min(dist[i][j], dist[i][k]+dist[k][j])	    //遍历所有节点，计算完全连通图
+	//step2： 求所有select 节点构成的最小生成树
+	create edge set e
+	create vertex set g
+	create vertex set G2
+	for each vertex i in allNodes:
+		for each vertex j in allNodes:
+			if dist[i][j] != INFINITY                                   //如果该节点可以访问，则添加这条边
+			create edge start with i, end with j
+			add edge to e[]                                             //在e 中添加这条边
+			add vertex to g[]                                           //在g 中添加这个节点
+	g ← kruskal(select, e)                                              //调用kruskal 算法计算联通子图
+	for edge ed in g:
+		add edge ed to G2
+	//step3：求扩展子图G2 的最小生成树
+	create vertex set G3
+	g2 ← kruskal(select, e)                                             //调用kruskal 算法计算联通子图
+	for edge ed in g2:
+		add ed to G3
+	//step4：删除度为1的顶点
+	for vertex v in G3:
+		if degree(v) == 1:                                              //若当前节点的度为1，则删除该节点
+			remove v from G3
+	return g2
+---------------------------------------------------------------------------------------------------------------
